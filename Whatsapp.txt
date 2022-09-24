@@ -11,3 +11,5 @@ Video Call
 Audio Call
 
 last scene
+
+Payment mode
